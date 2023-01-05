@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/10231985/210804404-dcfce3af-fbf2-413b-9c9b-0cbffe01284b.jpg" alt="drawing" width="900"/>
 </p>
 
-> Illustration of [Shehzil Malik](http://www.shehzil.com), on  (Behance](https://www.behance.net/gallery/100850699/Women-in-Tech-Inspiration-No-Fairytales)
+> Illustration of [Shehzil Malik](http://www.shehzil.com), on  [Behance](https://www.behance.net/gallery/100850699/Women-in-Tech-Inspiration-No-Fairytales)
 
 
 <h1 align="left"> Hey there, I'm Alice 👋 </h1>
