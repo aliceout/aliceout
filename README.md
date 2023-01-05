@@ -22,6 +22,3 @@
 - 😄 Pronouns: she/her
 - ⚡ Hobbies: Outdoor sports, volunteering, reading, cinema, piano 
 - 🏳️‍🌈 Non-negotiable : If you have a problem with human rights, you have a problem with me
-
----
-https://www.linkedin.com/in/alicedel/
