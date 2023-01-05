@@ -10,8 +10,9 @@
 <h4 align="left">  New (and former) developer in professional reconversion, with a university background in law and international relations, and professional experiences in humanitarian and freight transport.<br><br>I am enthusiastic about meaningful projects that bring hope and a better world.</h4>
 
 <p align="left">
-   <a href="https://alicedel.work/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Resume-E15718?style=flat-square&logo=ReadMe&logoColor=white&link=https://alicedel.work/"></a> 
-   <a href="[https://alicedel.work](https://www.linkedin.com/in/alicedel/)/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0075b5?style=flat-square&logo=Linkedin&logoColor=white&link=[https://alicedel.work//](https://www.linkedin.com/in/alicedel/)"></a> 
+   <a href="https://alicedel.work/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Resume-E15718?style=flat-square&logo=ReadMe&logoColor=white&link=https://alicedel.work/"></a>    
+   
+   <a href="https://www.linkedin.com/in/alicedel"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0075b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alicedel"></a> 
 </p>
 
 ---
@@ -24,3 +25,4 @@
 - 🏳️‍🌈 Non-negotiable : If you have a problem with human rights, you have a problem with me
 
 ---
+https://www.linkedin.com/in/alicedel/
