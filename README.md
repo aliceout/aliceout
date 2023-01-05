@@ -11,7 +11,6 @@
 
 <p align="left">
    <a href="https://alicedel.work/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Resume-E15718?style=flat-square&logo=ReadMe&logoColor=white&link=https://alicedel.work/"></a>    
-   
    <a href="https://www.linkedin.com/in/alicedel"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0075b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alicedel"></a> 
 </p>
 
