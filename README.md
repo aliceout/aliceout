@@ -18,7 +18,7 @@
 - 🔭 I’m currently registering for six month and intensive training in O'Clock
 - 🌱 I’m currently learning Javascript, piano, and many other things 
 - 💬 Ask me about Law, electronic music, French political history, migration, futuristic literature
-- 📫 How to reach me: [Skype](https://join.skype.com/invite/II99wpbBBR78) ou [Matrix](@lilioux:matrix.org)
+- 📫 How to reach me: [Skype](https://join.skype.com/invite/II99wpbBBR78) ou Matrix/Element (@lilioux:matrix.org)
 - 😄 Pronouns: she/her
 - ⚡ Hobbies: Outdoor sports, volunteering, reading, cinema, piano 
 - 🏳️‍🌈 Non-negotiable : If you have a problem with human rights, you have a problem with me
