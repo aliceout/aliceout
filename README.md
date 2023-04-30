@@ -1,4 +1,4 @@
-<h1 align="left"> Hey there, I'm Alice 👋 </h1>
+<h1 align="left"> Hey there, I'm Alice 🦄 </h1>
 <img align="right" width="500" src="https://user-images.githubusercontent.com/10231985/210804404-dcfce3af-fbf2-413b-9c9b-0cbffe01284b.jpg">
 
 
