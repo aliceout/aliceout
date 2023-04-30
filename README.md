@@ -1,5 +1,5 @@
 <h1 align="left"> Hey there, I'm Alice 🦄 </h1>
-<img align="right" width="500" src="https://user-images.githubusercontent.com/10231985/210804404-dcfce3af-fbf2-413b-9c9b-0cbffe01284b.jpg">
+<img align="right" width="500" src="https://pbs.twimg.com/media/DG95aO7VwAArm69?format=jpg&name=large">
 
 
 New (and former) developer in professional reconversion, with a university background in law and international relations, and professional experiences in humanitarian and freight transport.<br><br>I am enthusiastic about meaningful projects that bring hope and a better world.
@@ -22,7 +22,9 @@ New (and former) developer in professional reconversion, with a university backg
 - 📫 How to reach me: [Skype](https://join.skype.com/invite/II99wpbBBR78) or [Matrix/Element](https://matrix.to/#/@lilioux:matrix.org)
 - 😄 Pronouns: she/her
 - ⚡ Hobbies: Outdoor sports, volunteering, reading, cinema, piano 
-- 🏳️‍🌈 Non-negotiable : If you have a problem with human rights, we can't work together
 
 > Illustration (Women in Tech) by [Shehzil Malik](http://www.shehzil.com), on  [Behance](https://www.behance.net/gallery/100850699/Women-in-Tech-Inspiration-No-Fairytales)<br/>
 > Profile created with the help of [GPRM](https://gprm.itsvg.in)
+
+
+🏳️‍🌈♀️ **Non-negotiable** : If you have a problem with human rights, we can't work together
