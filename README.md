@@ -27,4 +27,4 @@ New (and former) developer in professional reconversion, with a university backg
 > Profile created with the help of [GPRM](https://gprm.itsvg.in)
 
 
-🏳️‍🌈♀️ **Non-negotiable** : If you have a problem with human rights, we can't work together
+**Non-negotiable** : If you have a problem with human rights, we can't work together 🏳️‍🌈♀️ 
