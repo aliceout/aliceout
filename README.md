@@ -1,5 +1,5 @@
 <h1 align="left"> Hey there, I'm Alice 👋 </h1>
-<img align="right" width="400" src="https://user-images.githubusercontent.com/10231985/210804404-dcfce3af-fbf2-413b-9c9b-0cbffe01284b.jpg">
+<img align="right" width="500" src="https://user-images.githubusercontent.com/10231985/210804404-dcfce3af-fbf2-413b-9c9b-0cbffe01284b.jpg">
 
 
 New (and former) developer in professional reconversion, with a university background in law and international relations, and professional experiences in humanitarian and freight transport.<br><br>I am enthusiastic about meaningful projects that bring hope and a better world.
