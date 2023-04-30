@@ -16,9 +16,9 @@ New (and former) developer in professional reconversion, with a university backg
 [![Resume](https://img.shields.io/badge/-Resume-E15718?logo=ReadMe&logoColor=white)](https://alicedel.work)
 
 #### 💫 About Me:
-- 🔭 I’m currently registering for six month and intensive training in O'Clock
+- 🔭 I am currently training to become a FullStask JS developer at the O'Clock school
 - 🌱 I’m currently learning Javascript, piano, and many other things 
-- 💬 Ask me about Law, electronic music, French political history, migration, futuristic literature
+- 💬 Ask me about Frecnh et European migration law, electronic music, French political history, migration studies, futuristic literature
 - 📫 How to reach me: [Skype](https://join.skype.com/invite/II99wpbBBR78) or [Matrix/Element](https://matrix.to/#/@lilioux:matrix.org)
 - 😄 Pronouns: she/her
 - ⚡ Hobbies: Outdoor sports, volunteering, reading, cinema, piano 
