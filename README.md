@@ -14,6 +14,8 @@ New (and former) developer in professional reconversion, with a university backg
 #### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aliceOsdel) 
 [![Resume](https://img.shields.io/badge/-Resume-E15718?logo=ReadMe&logoColor=white)](https://alicedel.work)
+<br/>
+*Non-negotiable* : If you have a problem with human rights, we can't work together 🏳️‍🌈♀️ 
 
 #### 💫 About Me:
 - 🔭 I am currently training to become a FullStask JS developer at the O'Clock school
@@ -25,6 +27,3 @@ New (and former) developer in professional reconversion, with a university backg
 
 > Illustration (We can code it) by [Anny Chen](https://twitter.com/followanny), on  [Behance](https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt?locale=fr_FR)<br/>
 > Profile created with the help of [GPRM](https://gprm.itsvg.in)
-
-
-**Non-negotiable** : If you have a problem with human rights, we can't work together 🏳️‍🌈♀️ 
