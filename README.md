@@ -23,7 +23,7 @@ New (and former) developer in professional reconversion, with a university backg
 - 😄 Pronouns: she/her
 - ⚡ Hobbies: Outdoor sports, volunteering, reading, cinema, piano 
 
-> Illustration (Women in Tech) by [Anny Chen](https://twitter.com/followanny), on  [Behance](https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt?locale=fr_FR)<br/>
+> Illustration (We can code it) by [Anny Chen](https://twitter.com/followanny), on  [Behance](https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt?locale=fr_FR)<br/>
 > Profile created with the help of [GPRM](https://gprm.itsvg.in)
 
 
