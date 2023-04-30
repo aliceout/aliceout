@@ -18,7 +18,7 @@ New (and former) developer in professional reconversion, with a university backg
 #### 💫 About Me:
 - 🔭 I am currently training to become a FullStask JS developer at the O'Clock school
 - 🌱 I’m currently learning Javascript, piano, and many other things 
-- 💬 Ask me about Frecnh et European migration law, electronic music, French political history, migration studies, futuristic literature
+- 💬 Ask me about migration, electronic music, French political history, futuristic literature
 - 📫 How to reach me: [Skype](https://join.skype.com/invite/II99wpbBBR78) or [Matrix/Element](https://matrix.to/#/@lilioux:matrix.org)
 - 😄 Pronouns: she/her
 - ⚡ Hobbies: Outdoor sports, volunteering, reading, cinema, piano 
