@@ -14,6 +14,7 @@ New (and former) developer in professional reconversion, with a university backg
 #### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aliceOsdel) 
 [![Resume](https://img.shields.io/badge/-Resume-E15718?logo=ReadMe&logoColor=white)](https://alicedel.work)
+[![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@lilioux:matrix.org)
 <br/>
 *Non-negotiable* : If you have a problem with human rights, we can't work together 🏳️‍🌈♀️ 
 
