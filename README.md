@@ -2,7 +2,7 @@
 <img align="right" width="500" src="https://pbs.twimg.com/media/DG95aO7VwAArm69?format=jpg&name=large">
 
 
-New (and former) developer in professional reconversion, with a university background in law and international relations, and professional experiences in humanitarian and freight transport.<br><br>I am enthusiastic about meaningful projects that bring hope and a better world.
+Junior developer in professional reconversion, with a university background in law and international relations, and professional experiences in humanitarian and freight transport.<br><br>I am enthusiastic about meaningful projects that bring hope and a better world.
 
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliceout&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
