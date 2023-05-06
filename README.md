@@ -20,7 +20,7 @@ Junior developer in professional reconversion, with a university background in l
 *Non-negotiable* : If you have a problem with human rights, we can't work together 🏳️‍🌈♀️ 
 
 #### 💫 About Me:
-- 🔭 I am currently training to become a FullStask JS developer at the [O'Clock school(https://oclock.io/formations/developpeur-web-fullstack-javascript)
+- 🔭 I am currently training to become a FullStask JS developer at the [O'Clock school](https://oclock.io/formations/developpeur-web-fullstack-javascript)
 - 🌱 I’m currently learning Javascript, piano, and many other things 
 - 💬 Ask me about migration, electronic music, French political history, futuristic literature
 - 📫 How to reach me: [Skype](https://join.skype.com/invite/II99wpbBBR78) or [Matrix/Element](https://matrix.to/#/@lilioux:matrix.org)
