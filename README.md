@@ -22,7 +22,7 @@ Junior Javascript full stack developer in professional reconversion, with a univ
 #### 💫 About Me:
 - 🔭 I am currently training to become a FullStask JS developer at [O'Clock](https://oclock.io/formations/developpeur-web-fullstack-javascript)
 - 🌱 I’m currently learning Javascript, piano, and many other things 
-- 💬 Ask me about migration law, electronic music, French political history, futuristic literature
+- 💬 Ask me about climbing, electronic music, French political history, futuristic literature & migration law
 - 📫 How to reach me: [Skype](https://join.skype.com/invite/II99wpbBBR78) or [Matrix/Element](https://matrix.to/#/@lilioux:matrix.org)
 - 😄 Pronouns: she/her
 - ⚡ Hobbies: Outdoor sports, volunteering, reading, cinema, piano 
