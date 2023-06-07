@@ -1,4 +1,4 @@
-<h1 align="left"> Hey there, I'm Alice 🦄 </h1>
+<h1 align="left">🌸 Hey there, I'm Alice 🌻</h1>
 <img align="right" width="500" src="https://pbs.twimg.com/media/DG95aO7VwAArm69?format=jpg&name=large">
 
 
