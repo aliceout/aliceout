@@ -2,7 +2,7 @@
 <img align="right" width="500" src="https://pbs.twimg.com/media/DG95aO7VwAArm69?format=jpg&name=large">
 
 
-Junior Javascript full stack developer in professional reconversion, with a university background in law and international relations, and professional experiences in humanitarian aid and freight transport.<br><br>I am enthusiastic about meaningful projects that bring hope and a better world.
+Junior Javascript full stack developer in professional reconversion, with a university background in law and international relations, and professional experiences in humanitarian aid and freight transport.<br><br>I'm enthusiastic about projects that bring hope, help people and help to create a better world.
 
 #### 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliceout&count-private=true&theme=transparent&langs_count=6&layout=compact&hide_progress=true)](#)
