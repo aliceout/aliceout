@@ -17,7 +17,7 @@ Junior Javascript full stack developer in professional reconversion, with a univ
 [![Skype](https://img.shields.io/badge/skype-00AFF0?style=flat&logo=Skype&logoColor=white)](https://join.skype.com/invite/II99wpbBBR78)
 [![Matrix](https://img.shields.io/badge/matrix-000000?style=flat&logo=Matrix&logoColor=white)](https://matrix.to/#/@lilioux:matrix.org)
 <br/>
-*Non-negotiable* : If you have a problem with human rights, we can't work together 🏳️‍🌈♀️ 
+*Non-negotiable* : If you have a problem with human rights, we can't work together 🏳️‍🌈 ♀️ 
 
 #### 💫 About Me:
 - 🔭 I am currently training to become a FullStask JS developer at [O'Clock](https://oclock.io/formations/developpeur-web-fullstack-javascript)
