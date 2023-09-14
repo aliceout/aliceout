@@ -25,7 +25,7 @@ Junior Javascript full stack developer in professional reconversion, with a univ
 - 💬 Ask me about climbing, electronic music, French political history, futuristic literature & migration law
 - 📫 How to reach me: [Skype](https://join.skype.com/invite/II99wpbBBR78) or [Matrix/Element](https://matrix.to/#/@lilioux:matrix.org)
 - 😄 Pronouns: she/her
-- ⚡ Hobbies: Outdoor sports, volunteering, reading, cinema, piano 
+- ⚡ Hobbies: Moutain sports, volunteering, reading, cinema, piano, coding 
 
 > Illustration (We can code it) by [Anny Chen](https://twitter.com/followanny), on  [Behance](https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt?locale=fr_FR)<br/>
 > Profile created with the help of [GPRM](https://gprm.itsvg.in)<br/>
