@@ -20,9 +20,9 @@ Web developer and server administrator in my spare time. With a degree in law an
 *Non-negotiable* : If you have a problem with human rights, we can't work together 🏳️‍🌈 ♀️ 
 
 #### 💫 About Me:
-- 🔭 I'm currently working in Madagascar (not in dev)
-- 🌱 I’m currently learning Javascript, piano, and many other things 
-- 💬 Ask me about climbing, electronic music, French political history, futuristic literature & migration law
+- 🔭 I'm currently working somewhere in the south of the African continent
+- 🌱 I’m currently learning Javascript, piano, genter studies, and many other things 
+- 💬 Ask me about climbing, electronic music, European political history, futuristic literature & migration law
 - 📫 How to reach me: [Skype](https://join.skype.com/invite/II99wpbBBR78) or [Signal](https://signal.me/#eu/h-YT5MeLwsc5nfvxvIIFwq05jO5yMmfB2CljSGeRi5R45hoZmYdG2ot_ICIC0mp7)
 - 😄 Pronouns: she/her
 - ⚡ Hobbies: Moutain sports, volunteering, reading, cinema, piano, coding 
