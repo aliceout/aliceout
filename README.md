@@ -12,20 +12,15 @@ Web developer and server administrator in my spare time. With a degree in law an
 <br/>
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](#)  [![Sequelize](https://img.shields.io/badge/Sequelize-323330?style=flat&logo=sequelize&logoColor=blue)](#) [![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](#) 
 
-   
-#### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aliceOsdel) 
-[![Resume](https://img.shields.io/badge/-Resume-E15718?logo=ReadMe&logoColor=white)](https://aliceout.work)
-<br/>
-*Non-negotiable* : If you have a problem with human rights, we can't work together 🏳️‍🌈 ♀️ 
-
 #### 💫 About Me:
 - 🔭 I'm currently working somewhere in the south of the African continent
 - 🌱 I’m currently learning Javascript, piano, genter studies, and many other things 
 - 💬 Ask me about climbing, electronic music, European political history, futuristic literature & migration law
 - 📫 How to reach me: [Skype](https://join.skype.com/invite/II99wpbBBR78) or [Signal](https://signal.me/#eu/h-YT5MeLwsc5nfvxvIIFwq05jO5yMmfB2CljSGeRi5R45hoZmYdG2ot_ICIC0mp7)
 - 😄 Pronouns: she/her
-- ⚡ Hobbies: Moutain sports, volunteering, reading, cinema, piano, coding 
+- ⚡ Hobbies: Moutain sports, volunteering, reading, cinema, piano, coding
+- *Non-negotiable* : If you have a problem with human rights, we can't work together 🏳️‍🌈 ♀️ 
+
 
 > Illustration (We can code it) by [Anny Chen](https://twitter.com/followanny), on  [Behance](https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt?locale=fr_FR)<br/>
 > Profile created with the help of [GPRM](https://gprm.itsvg.in)<br/>
