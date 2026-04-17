@@ -5,8 +5,7 @@
 Web developer and server administrator in my spare time. With a degree in law and international relations, and working in international solidarity arround the world. <br><br>I'm enthusiastic about projects that bring hope, help people and help to create a better world.
 
 #### 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliceout&count-private=true&theme=transparent&langs_count=6&layout=compact&hide_progress=true)](#)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliceout&layout=compact)
 #### 💻 Tech Stack:
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](#) [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)](#)  [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)](#) [![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)](#) [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](#) [![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)](#) 
 <br/>
