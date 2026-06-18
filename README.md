@@ -15,7 +15,7 @@ Web developer and server administrator in my spare time. With a degree in law an
 - 🔭 I'm currently working somewhere in the south of the African continent
 - 🌱 I’m currently learning Javascript, piano, genter studies, and many other things 
 - 💬 Ask me about climbing, electronic music, European political history, futuristic literature & migration law
-- 📫 How to reach me:[Signal](https://signal.me/#eu/h-YT5MeLwsc5nfvxvIIFwq05jO5yMmfB2CljSGeRi5R45hoZmYdG2ot_ICIC0mp7)
+- 📫 How to reach me: [Signal](https://signal.me/#eu/h-YT5MeLwsc5nfvxvIIFwq05jO5yMmfB2CljSGeRi5R45hoZmYdG2ot_ICIC0mp7)
 - 😄 Pronouns: she/her
 - ⚡ Hobbies: Moutain sports, volunteering, reading, cinema, piano, coding
 - *Non-negotiable* : If you have a problem with human rights, we can't work together 🏳️‍🌈 ♀️ 
